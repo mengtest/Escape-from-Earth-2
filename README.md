@@ -1,2 +1,2 @@
 # Escape-from-Earth
-Game&lt;--Escape from Earth
+Game-->Escape from Earth
